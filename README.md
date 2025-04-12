@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 - 🔭 I’m currently working on **[MindMapper.ml](https://github.com/paavanshetty23/mindmapper.ml)** – an AI-powered app that turns PDFs into mind maps and knowledge points using React, FastAPI, and Python ML.
 - 🌱 I’m learning **Kotlin for Android Dev**, exploring **LLMs (LLaMA, Mistral, Ollama)**, and **text-to-video generation models**.
 - 💬 Ask me about **Python, Rust, FastAPI, LangChain, LLMs, and full-stack development**.
-- 📫 Reach me at: [paavanshetty2303@gmail.com](mailto:paavanshetty2303@gmail.com) or [LinkedIn](https://www.linkedin.com/in/paavan-shetty/)
+- 📫 Reach me at: [paavanshetty2303@gmail.com](mailto:paavanshetty2303@gmail.com) or [LinkedIn](https://www.linkedin.com/in/paavan-shetty-419667259)
 - ⚡ Fun fact: **I’ve built a Discord bot that delivers daily personalized news updates powered by AI.**
 
 ---
@@ -60,7 +60,7 @@ Python script to automatically sort your Downloads folder by file type – light
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/paavan-shetty/)
-- 📬 Email: [paavanshetty2303@gmail.com](mailto:paavanshetty2303@gmail.com)
+- 📬 Email: [paavanshetty2004@gmail.com](mailto:paavanshetty2004@gmail.com)
 - 🌐 Portfolio Website: *(coming soon)*
 
 ---
